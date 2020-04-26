@@ -13,4 +13,5 @@ object PDFiumFrame: TPDFiumFrame
   ParentColor = False
   ParentDoubleBuffered = False
   TabOrder = 0
+  ExplicitHeight = 304
 end
